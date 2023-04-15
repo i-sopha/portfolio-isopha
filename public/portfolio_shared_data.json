@@ -1,20 +1,21 @@
 {
     "basic_info": {
       "name": "Isabel Sopha",
-      "titles": [ "Software Developer" ],
+      "titles": ["Limitless Concept Creator - Building digital masterpieces with the precision of Legos"
+    ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/i-sopha",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/i-sopha/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "headshot.jpg"
     },
     "skills": {
       "icons": [
