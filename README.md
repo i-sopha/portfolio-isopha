@@ -36,38 +36,38 @@ Actual time needed to complete: 2
 
 Estimate of time needed to complete: 2
 
-Start time: 
+Start time: 5
 
-Finish time: 
+Finish time: 6
 
-Actual time needed to complete: 
+Actual time needed to complete: 1
 
 1. Projects Section
 
 Estimate of time needed to complete: 2
 
-Start time: 
+Start time: 6
 
-Finish time: 
+Finish time: 7
 
-Actual time needed to complete: 
+Actual time needed to complete: 1
 
 1. Skills and Experience Sections
 
 Estimate of time needed to complete: 2
 
-Start time: 
+Start time: 7
 
-Finish time: 
+Finish time: 8
 
-Actual time needed to complete: 
+Actual time needed to complete: 1
 
 1. Personalize
 
 Estimate of time needed to complete: 2
 
-Start time: 
+Start time: 8
 
-Finish time: 
+Finish time: 10
 
-Actual time needed to complete: 
+Actual time needed to complete: 2
