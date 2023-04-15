@@ -85,37 +85,51 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Code Fellows",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "02.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML5",
+          "CSS"
+
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Astro Seal Inc.",
+        "title": "Assembler",
+        "years": "03.2021 - 01.2023",
         "mainTech": [
-          "Angular 7/8"
+          "Assembly/CNC"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "G-Code"
+        ]
+      },
+      {
+        "company": "Department of Veterans Affairs",
+        "title": "Help Desk",
+        "years": "08.2018 - 03.2021",
+        "mainTech": [
+          "Tech Support"
+        ],
+        "technologies": [
+
+        ]
+      },
+      {
+        "company": "Department of Defense",
+        "title": "Transport Operator",
+        "years": "05.2013 - 08.2018",
+        "mainTech": [
+          "Operations"
+        ],
+        "technologies": [
+
         ]
       }
     ]
