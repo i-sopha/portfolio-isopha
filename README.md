@@ -19,3 +19,55 @@ I'm excited about the future of software development and the endless possibiliti
 E-mail: i.sopha94@gmail.com
 
 Linkedin: [Click Here!](https://www.linkedin.com/in/i-sopha/)
+
+---
+
+1. Clone Template and Deploy
+
+Estimate of time needed to complete: 1
+
+Start time: 3
+
+Finish time: 5
+
+Actual time needed to complete: 2
+
+1. About Me
+
+Estimate of time needed to complete: 2
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+1. Projects Section
+
+Estimate of time needed to complete: 2
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+1. Skills and Experience Sections
+
+Estimate of time needed to complete: 2
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+1. Personalize
+
+Estimate of time needed to complete: 2
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
